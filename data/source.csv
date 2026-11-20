@@ -1,0 +1,4 @@
+transaction_id,side,amount
+TX-001,CREDIT,125.40
+TX-002,DEBIT,9.99
+TX-003,CREDIT,0.05
